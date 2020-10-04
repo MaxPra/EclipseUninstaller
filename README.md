@@ -1,0 +1,2 @@
+# EclipseUninstaller
+Uninstalls Eclipse IDE
