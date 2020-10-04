@@ -1,7 +1,7 @@
 # EclipseUninstaller V1.0
-This application uninstalls the "Eclipse IDE", because there is no default Uninstaller!
+This application uninstalls the "Eclipse IDE", because there is no default uninstaller!
 
-Download the latest portable Version of the Program in the "Releases"-Section or click [here](https://github.com/MaxPra/EclipseUninstaller/releases/download/Version1.0EclipseUninstaller/EclipseUninstaller.exe)
+Download the latest portable version of the program in the "Releases"-section or click [here](https://github.com/MaxPra/EclipseUninstaller/releases/download/Version1.0EclipseUninstaller/EclipseUninstaller.exe)
 
 **It's important, that you start the application as an administrator!**
 
